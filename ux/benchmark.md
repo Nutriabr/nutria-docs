@@ -1,37 +1,19 @@
 # Benchmark — Atributos e Funcionalidades
 
-## Atributos de Valor
-
-| Atributo | NutriBase | Rótulos Online | Desrotulando |
-|----------|-----------|----------------|---------------|
-| Geração Automática | 10 | ? | ? |
-| Eficiência | 10 | ? | ? |
-| Base Internacional | 9 | ? | ? |
-| Exigências da ANVISA | 9 | ? | ? |
-| Tomada de Decisão | 9 | ? | ? |
-| Facilidade de Uso | 8 | ? | ? |
-| Economia de Tempo | 8 | ? | ? |
-| Flexibilidade | 7 | ? | ? |
-| Preço Acessível | 7 | ? | ? |
-| Armazenamento | 7 | ? | ? |
-| Conhecimento Ingredientes | 6 | ? | ? |
-| Exportação Personalizada | 6 | ? | ? |
-| Suporte ANVISA | 6 | ? | ? |
-
 ## Funcionalidades
 
 | Funcionalidade | Nutria | NutriBase | Rótulos Online | Desrotulando |
 |----------------|--------|-----------|----------------|--------------|
-| Tabela Nutricional Obrigatória | ✅ | ✅ | ✅ | ✅ |
-| Tabela de Vitaminas e Sais | ✅ | ? | ? | ? |
-| Ficha Técnica | ✅ | ? | ? | ? |
-| Sugestões Saudáveis | ✅ | ? | ? | ? |
-| Livro de Receitas | ✅ | ? | ? | ? |
-| Exportação | ✅ | ✅ | ✅ | ✅ |
-| Scanner Código de Barras | ✅ | ? | ? | ? |
-| Avaliação Nutricional | ✅ | ? | ? | ? |
-| Processo Inverso | ✅ | ? | ? | ? |
-| Rotulagem Frontal | ✅ | ? | ? | ? |
-| Scanner Nutricional | ✅ | ? | ? | ? |
-| Chatbot para Dúvidas | ✅ | ? | ? | ? |
+| Tabela Nutricional Obrigatória | ✅ | ✅ | ✅ | X |
+| Tabela de Vitaminas e Sais | ✅ | ✅ | ✅ | X |
+| Ficha Técnica | X | X | ✅  | ✅  |
+| Sugestões Saudáveis | ✅ | ✅ | X | ✅ |
+| Livro de Receitas | X | X | ✅ | X |
+| Exportação || ✅ | ✅ | ✅ | X |
+| Scanner Código de Barras | X | X | X | ✅ |
+| Avaliação Nutricional | ✅ | X | X | ✅ |
+| Processo Inverso | ✅ | X | X | X |
+| Rotulagem Frontal | ✅ | ✅ | ✅ | ✅ |
+| Scanner Nutricional | ✅ | X | X | X |
+| Chatbot para Dúvidas || ✅ | X | X | X |
 | Comparação de Tabelas | ✅ | ? | ? | ? |
